@@ -17,7 +17,6 @@ cycler==0.12.1
 Cython==3.0.11
 debugpy==1.8.11
 decorator==5.1.1
-empyrical==0.5.5
 empyrical-reloaded==0.5.11
 exceptiongroup==1.2.2
 executing==2.1.0
